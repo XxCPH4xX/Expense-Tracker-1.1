@@ -17,9 +17,14 @@ A modern Android expense tracking app built with Kotlin and Jetpack Compose. Tra
 
 ## Screenshots
 
-| Dashboard | Transactions | Analytics | Categories |
-|-----------|-------------|-----------|------------|
-| - | - | - | - |
+<p align="center">
+  <img src="Screenshots/Screenshot_2026-09-19-00-53-12-478_com.aistudio.expensetracker.vptlqr.jpg" width="24%" />
+  <img src="Screenshots/Screenshot_2026-09-19-00-53-44-405_com.aistudio.expensetracker.vptlqr.jpg" width="24%" />
+  <img src="Screenshots/Screenshot_2026-09-19-00-53-49-906_com.aistudio.expensetracker.vptlqr.jpg" width="24%" />
+  <img src="Screenshots/Screenshot_2026-09-19-00-54-00-154_com.aistudio.expensetracker.vptlqr.jpg" width="24%" />
+  <img src="Screenshots/Screenshot_2026-09-19-00-54-48-446_com.aistudio.expensetracker.vptlqr.jpg" width="24%" />
+  <img src="Screenshots/Screenshot_2026-09-19-00-55-35-824_com.aistudio.expensetracker.vptlqr.jpg" width="24%" />
+</p>
 
 ## Tech Stack
 
