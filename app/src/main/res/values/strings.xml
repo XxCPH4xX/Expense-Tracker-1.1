@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="developer_name">FahimShahrier</string>
+    <string name="copyright_text">© 2026 FahimShahrier. All rights reserved.</string>
+</resources>

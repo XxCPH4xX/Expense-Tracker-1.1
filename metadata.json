@@ -1,0 +1,7 @@
+{
+  "name": "Expense Tracker",
+  "description": "Offline personal finance and expense tracker with relational Room database, dynamic charts, category budgets, and CSV/JSON data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
